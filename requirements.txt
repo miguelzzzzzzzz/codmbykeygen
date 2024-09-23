@@ -1,0 +1,9 @@
+python-telegram-bot
+hashlib
+base64
+hmac
+time
+subprocess
+psutil
+socket
+os
