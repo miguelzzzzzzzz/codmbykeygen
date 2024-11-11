@@ -2,6 +2,19 @@
 
 [HKEY_CURRENT_USER\Software\Tencent\MobileGamePC]
 "UserLanguage"="en"
+"SetGraphicsCard"=dword:00000001
+"GraphicsCardEnabled"=dword:00000001
+"QqOpenidValidStatus"=dword:00000001
+"isInstall"=dword:00000001
+"UI_VerifyPeFile"=dword:00000001
+"tss_use_local_verify"=dword:00000001
+"syzs_emulator_hwnd"=dword:00000000
+"CPUScore"=dword:00002311
+"tsyzs_220214_aow-251658244"=dword:00000001
+"FaceCheckSwitch"=dword:00000001
+"dpiAware"=dword:00000000
+"PreorderGameAutoDownload"=dword:00000001
+"HideAdvancedWatermark"=dword:00000000
 "VMDeviceManufacturer"="Sony"
 "VMDeviceModel"="SO-52A"
 "VMPhoneDevice"="Asus ROG 2"
