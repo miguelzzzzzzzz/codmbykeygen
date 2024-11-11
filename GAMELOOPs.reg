@@ -1,22 +1,15 @@
-Windows Registry Editor Version 5.00
+﻿Windows Registry Editor Version 5.00
 
 [HKEY_CURRENT_USER\Software\Tencent\MobileGamePC]
-"TempPath"="C:\\Temp\\TxGameDownload\\Component\\"
 "UserLanguage"="en"
-"abtestid"="{\"Component\":\"0\"}"
-"Region"="PH"
-"sf"="C:\\Temp\\TxGameDownload\\MobileGamePCShared"
-"GraphicsCard"="AMD"
 "SetGraphicsCard"=dword:00000001
 "GraphicsCardEnabled"=dword:00000001
-"syzs_country"="菲律宾"
 "QqOpenidValidStatus"=dword:00000001
 "isInstall"=dword:00000001
 "UI_VerifyPeFile"=dword:00000001
 "tss_use_local_verify"=dword:00000001
 "syzs_emulator_hwnd"=dword:00000000
 "CPUScore"=dword:00002311
-"GpsLocation"="22.540323,113.934578"
 "tsyzs_220214_aow-251658244"=dword:00000001
 "FaceCheckSwitch"=dword:00000001
 "dpiAware"=dword:00000000
@@ -29,9 +22,6 @@ Windows Registry Editor Version 5.00
 "audioRenderType"=dword:00000000
 "FxaaQuality"=dword:00000000
 "LocalShaderCacheEnabled"=dword:00000001
-"VMMemorySizeInMB"=dword:00002000
-"AudioRenderEndpoint"="{0.0.0.00000000}.{5d8288b0-0660-4a52-9cd1-342f42e6e7d7}"
-"AudioCaptureEndpoint"="{0.0.1.00000000}.{6dcf6b55-2c16-42d6-818b-5a92a12f3a8e}"
 "EnableGLESv3"=dword:00000001
 "ForceDirectX"=dword:00000001
 "RenderOptimizeEnabled"=dword:00000001
@@ -42,9 +32,8 @@ Windows Registry Editor Version 5.00
 "VMDeviceManufacturer"="Sony"
 "VMDeviceModel"="SO-52A"
 "com.activision.callofduty.shooter_ContentScale"=dword:00000001
-"com.activision.callofduty.shooter_RenderQuality"=dword:ffffffff
+"com.activision.callofduty.shooter_RenderQuality"=dword:00000002
 "VMPhoneDevice"="Asus ROG 2"
-"KeyMindTipsPressed"=dword:00000001
 "ml_timer_user_switch"=dword:00000000
 
 
