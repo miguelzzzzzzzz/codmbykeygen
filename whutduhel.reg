@@ -39,8 +39,8 @@ Windows Registry Editor Version 5.00
 "ShaderCacheEnabled"=dword:00000001
 "VMDPI"=dword:000000f0
 "VSyncEnabled"=dword:00000000
-"VMDeviceManufacturer"="asus"
-"VMDeviceModel"="ASUS_I001DA"
+"VMDeviceManufacturer"="Sony"
+"VMDeviceModel"="SO-52A"
 "com.activision.callofduty.shooter_ContentScale"=dword:00000001
 "com.activision.callofduty.shooter_RenderQuality"=dword:00000002
 "VMPhoneDevice"="Asus ROG 2"
