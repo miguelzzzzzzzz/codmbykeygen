@@ -1,0 +1,4 @@
+{
+  "restricted": ["hwid1", "hwid2"],
+  "banned": ["hwid3", "hwid4"]
+}
