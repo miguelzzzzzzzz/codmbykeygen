@@ -1,17 +1,15 @@
 {
   "restricted": [
-    "3d7248d573840d9877c506498407078853cf2a60b31658638508620ffac8dd83", 
-    "Ae52b3c48b507735a35cdf61b0d85879619aa57040428714625ea9687399ec57c", 
+    "3d7248d573840d9877c506498407078853cf2a60b31658638508620ffac8dd83",
+    "Ae52b3c48b507735a35cdf61b0d85879619aa57040428714625ea9687399ec57c",
     "538d8b22f4525eea842058d4715896505ba57c6f64b9c0c886d0d656c2a716d9"
-  
-  
-  
   ],
-
-  
-  "banned": ["1ba2ea60db9f1047c3d39d6630867717c93de4d70fe06c34f3f3c9b6c152e5c50", 
+  "banned": [
+    "1ba2ea60db9f1047c3d39d6630867717c93de4d70fe06c34f3f3c9b6c152e5c50",
     "a"
-  
-  
+  ],
+  "paused": [
+    "deadbeefdeadbeefdeadbeefdeadbeefdeadbeef",
+    "cafebabecafebabecafebabecafebabecafebabe"
   ]
 }
