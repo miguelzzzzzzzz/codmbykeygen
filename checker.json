@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "username": "1",
+      "password": "1",
+      "hwid": "b124df37604b95d254c5575a006ddc68f39353c81a9bb8352a439f5777cce106",
+      "valid_until": "2025-12-31"
+    },
+    {
+      "username": "another_user",
+      "password": "another_password",
+      "hwid": "f5e4d3c2b1a0f5e4d3c2b1a0...",
+      "valid_until": "2024-08-15"
+    },
+    {
+      "username": "test_key_user",
+      "password": "test",
+      "hwid": "TRIAL",
+      "valid_until": "2099-01-01"
+    },
+    {
+      "username": "expired_user",
+      "password": "password123",
+      "hwid": "some_other_hwid...",
+      "valid_until": "2023-01-01"
+    }
+  ]
+}
