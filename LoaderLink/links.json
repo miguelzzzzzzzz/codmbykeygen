@@ -1,4 +1,22 @@
 {
-  "matter_link": "https://github.com/miguelzzzzzzzz/codmbykeygen/raw/refs/heads/main/Loaders/Matter/BloodyLuciMatter1.7.0.exe",
-  "void_link": "https://github.com/miguelzzzzzzzz/codmbykeygen/raw/refs/heads/main/Loaders/Void/BloodyLuciVoid1.7.3.exe"
+  "matter_versions": [
+    {
+      "version": "1.7.0",
+      "link": "https://github.com/miguelzzzzzzzz/codmbykeygen/raw/refs/heads/main/Loaders/Matter/BloodyLuciMatter1.7.0.exe"
+    },
+    {
+      "version": "1.6.9",
+      "link": "https://github.com/miguelzzzzzzzz/codmbykeygen/raw/refs/heads/main/Loaders/Matter/BloodyLuciMatter1.6.9.exe"
+    }
+  ],
+  "void_versions": [
+    {
+      "version": "1.7.3",
+      "link": "https://github.com/miguelzzzzzzzz/codmbykeygen/raw/refs/heads/main/Loaders/Void/BloodyLuciVoid1.7.3.exe"
+    },
+    {
+      "version": "1.7.2",
+      "link": "https://github.com/miguelzzzzzzzz/codmbykeygen/raw/refs/heads/main/Loaders/Void/BloodyLuciVoid1.7.2.exe"
+    }
+  ]
 }
